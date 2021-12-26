@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textview">TextView</string>
+    <string name="nhap_so_2">Nhap so 2</string>
+    <string name="ch_ng_tr_nh">Chương trình</string>
+    <string name="nhap_so_1">nhap so 1</string>
+    <string name="button">Button</string>
+    <string name="textview1">TextView</string>
+</resources>
